@@ -33,7 +33,7 @@ Buatlah dokumen PHP dengan nama php_dasar.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_dasar.php <br>
 Ini adalah hasil dari sintaks diatas :
-![Gambar 1](gambar/1.PNG) <br>
+![1.png](gambar/1.png) <br>
 
 ### 2. Variabel PHP
 Tambahkan sintaks pada file php_dasar.php sebelumnya, dengan sintaks seperti contoh dibawah ini : <br>

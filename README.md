@@ -40,8 +40,8 @@ Tambahkan sintaks pada file php_dasar.php sebelumnya, dengan sintaks seperti con
 ```
     <h2>Menggunakan Variabel</h2>
     <?php
-        $nim = "312010364";
-        $nama = "Aning Kinanti";
+        $nim = "312010343";
+        $nama = "Reka Hani Larifah Nurhasanah";
         echo "NIM   : ". $nim . "<br>";
         echo "Nama  : $nama"; 
     ?>
@@ -50,7 +50,7 @@ Tambahkan sintaks pada file php_dasar.php sebelumnya, dengan sintaks seperti con
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_dasar.php <br>
 Ini adalah hasil dari sintaks diatas :
-![Gambar 2](screenshot/ss2.PNG) <br>
+![2.png](gambar/2.png) <br>
 
 ### 3. Predefine Variable $_GET
 Buatlah dokumen PHP dengan nama latihan2.php seperti contoh dibawah ini : <br>
@@ -73,9 +73,9 @@ Buatlah dokumen PHP dengan nama latihan2.php seperti contoh dibawah ini : <br>
 ```
 <br>
 
-Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/latihan2.php?nama=aning <br>
+Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/latihan2.php?nama=reka <br>
 Ini adalah hasil dari sintaks diatas :
-![Gambar 3](screenshot/ss3.PNG) <br>
+![3.png](gambar/3.png) <br>
 
 ### 4. Membuat Form Input
 Buatlah dokumen PHP dengan nama formInput.php seperti contoh dibawah ini : <br>
@@ -106,13 +106,13 @@ Buatlah dokumen PHP dengan nama formInput.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/formInput.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 4a](screenshot/ss4a.PNG) <br>
+![4.png](gambar/4.png) <br>
 
 Kemudian masukan nama pada kolom input seperti dibawah ini : <br>
-![Gambar 4b](screenshot/ss4b.PNG) <br>
+![5.png](gambar/5.png) <br>
 
 Maka akan menjadi seperti dibawah ini : <br>
-![Gambar 4c](screenshot/ss4c.PNG) <br>
+![6.png](gambar/6.png) <br>
 
 ### 5. Operator pada PHP
 Buatlah dokumen PHP dengan nama php_operator.php seperti contoh dibawah ini : <br>
@@ -141,7 +141,7 @@ Buatlah dokumen PHP dengan nama php_operator.php seperti contoh dibawah ini : <b
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_operator.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 5](screenshot/ss5.PNG) <br>
+![7.png](gambar/7.png) <br>
 
 ### 6. Kondisi IF pada PHP
 Buatlah dokumen PHP dengan nama php_if.php seperti contoh dibawah ini : <br>
@@ -173,7 +173,7 @@ Buatlah dokumen PHP dengan nama php_if.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_if.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 6](screenshot/ss6.PNG) <br>
+![8.png](gambar/8.png) <br>
 
 ### 7. Kondisi Switch pada PHP
 Buatlah dokumen PHP dengan nama php_switch.php seperti contoh dibawah ini : <br>
@@ -211,7 +211,7 @@ Buatlah dokumen PHP dengan nama php_switch.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_switch.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 7](screenshot/ss7.PNG) <br>
+![9.png](gambar/9.png) <br>
 
 ### 8. Perulangan For pada PHP
 Buatlah dokumen PHP dengan nama php_for.php seperti contoh dibawah ini : <br>
@@ -243,7 +243,7 @@ Buatlah dokumen PHP dengan nama php_for.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_for.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 8](screenshot/ss8.PNG) <br>
+![10.png](gambar/10.png) <br>
 
 ### 9. Perulangan While pada PHP
 Buatlah dokumen PHP dengan nama php_while.php seperti contoh dibawah ini : <br>
@@ -273,7 +273,7 @@ Buatlah dokumen PHP dengan nama php_while.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_while.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 9](screenshot/ss9.PNG) <br>
+![11.png](gambar/11.png) <br>
 
 ### 10. Perulangan DoWhile pada PHP
 Buatlah dokumen PHP dengan nama php_dowhile.php seperti contoh dibawah ini : <br>
@@ -303,7 +303,7 @@ Buatlah dokumen PHP dengan nama php_dowhile.php seperti contoh dibawah ini : <br
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_dowhile.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 10](screenshot/ss10.PNG) <br>
+![12.png](gambar/12.png)) <br>
 
 ## B. Pernyataan dan Tugas
 ### 1. Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang berbeda-beda sesuai pilihan pekerjaan ! <br>
@@ -382,10 +382,7 @@ Buatlah dokumen PHP dengan nama php_form.php seperti contoh dibawah ini : <br>
 
 Kemudian untuk mengakses hasilnya melalui URL: http://localhost/lab7web/php_form.php <br>
 Ini adalah hasil awal dari sintaks diatas :
-![Gambar 11a](screenshot/ss11a.PNG) <br>
+![104.png](gambar/14.png) <br>
 
-Kemudian isi data pada kolom input seperti dibawah ini : <br>
-![Gambar 11b](screenshot/ss11b.PNG) <br>
-
-Maka akan menjadi seperti dibawah ini : <br>
-![Gambar 11c](screenshot/ss11c.PNG) <br>
+Kemudian isi data pada kolom input, maka akan menjadi seperti dibawah ini : <br>
+![15.png](gambar/15.png) <br>
